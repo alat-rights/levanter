@@ -38,7 +38,7 @@ dependencies = [
     "gcsfs==2023.3.0",
     "braceexpand>=0.1.7",
     "jmp>=0.0.3",
-    "fsspec==2023.3.0", # pin this to make gcsfs happy
+    "fsspec==2026.6.0", # pin this to make gcsfs happy
     "tensorstore>=0.1.36",
     "pytimeparse>=1.1.8",
     "humanfriendly==10.0",
